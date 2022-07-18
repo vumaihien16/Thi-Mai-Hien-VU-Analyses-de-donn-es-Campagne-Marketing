@@ -2,12 +2,26 @@ On dispose de données d’une campagne publicitaire pour un annonceur Retail. O
 
 
 Les KPIs retenus pour évaluer la performance sont les suivants :
+
+
 ● Cost : Budget dépensé en media
+
+
 ● CPM : coût pour mille impressions
+
+
 ● Nombre d’impressions
+
+
 ● Nombre de users uniques imprimés
+
+
 ● Répétition : fréquence moyenne d’impressions par user
+
+
 ● Nombre de conversions attribuées, ie. conversions réalisées par les users après impression
+
+
 ● CPA : coût par action, i.e. à combien nous revient chaque conversion attribuée
 
 
